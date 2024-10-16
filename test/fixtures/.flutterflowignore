@@ -1,0 +1,8 @@
+file
+dir/*
+dir_recursive/**/file
+
+  LEADING_SPACES.md
+TRAILING_SPACES.md  
+  LEADING_AND_TRAILING_SPACES.md  
+
